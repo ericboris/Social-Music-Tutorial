@@ -1,0 +1,8 @@
+{
+    "short_name": "Social Music",
+    "name": "Social Music Tutorial",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
